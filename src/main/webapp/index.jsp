@@ -778,7 +778,7 @@
             },
             {
                 id: 3,
-                title: 'Apple Watch Series 8',
+                title: 'Apple Watch Series 9',
                 price: 349,
                 oldPrice: 399,
                 rating: 5,
@@ -798,7 +798,7 @@
             },
             {
                 id: 5,
-                title: 'Sony A7 IV Camera',
+                title: 'Sony A7 IV mobile',
                 price: 2499,
                 rating: 5,
                 reviews: 42,
