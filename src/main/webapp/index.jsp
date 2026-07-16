@@ -450,7 +450,7 @@
                 grid-template-columns: repeat(3, 1fr);
             }
 
-            .products {
+            .items {
                 grid-template-columns: repeat(3, 1fr);
             }
         }
