@@ -725,7 +725,7 @@
     
         // --- Sample data (can be replaced by server-side data or API) ---
         const CATEGORIES = [{
-                id: 'iphones',
+                id: 'mobile',
                 name: 'Smartphones',
                 icon: 'fa-mobile-alt'
             },
