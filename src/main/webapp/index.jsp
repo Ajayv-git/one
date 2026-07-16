@@ -450,7 +450,7 @@
                 grid-template-columns: repeat(3, 1fr);
             }
 
-            .items {
+            .products {
                 grid-template-columns: repeat(3, 1fr);
             }
         }
@@ -725,7 +725,7 @@
     
         // --- Sample data (can be replaced by server-side data or API) ---
         const CATEGORIES = [{
-                id: 'mobile',
+                id: 'iphones',
                 name: 'Smartphones',
                 icon: 'fa-mobile-alt'
             },
@@ -735,8 +735,8 @@
                 icon: 'fa-laptop'
             },
             {
-                id: 'dress',
-                name: 'dress',
+                id: 'clothes',
+                name: 'clothes',
                 icon: 'fa-tshirt'
             },
             {
